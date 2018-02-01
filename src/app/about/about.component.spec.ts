@@ -12,7 +12,7 @@ describe('AboutComponent', () => {
     })
     .compileComponents();
   }));
-
+//wow
   beforeEach(() => {
     fixture = TestBed.createComponent(AboutComponent);
     component = fixture.componentInstance;
